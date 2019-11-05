@@ -1,7 +1,12 @@
 ****Pizza****
 Ingredients
 dough
-sauce
+sauce (see sauce recipe)
 tomatoes
 mushrooms
  
+Instructions: 
+
+1 blablabla
+2 more blablabla
+3 more blablabla
